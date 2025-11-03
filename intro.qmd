@@ -1,0 +1,25 @@
+# Introduction
+
+New York State Fiscal Year 2023-24 Enacted Budget (S4008C/A3008C, chapter 58 of 2023)
+
+## Summary of Legislation
+
+-   The FY 2023-24 budget dedicates revenues from new downstate casino licenses, with an expected minimum license fee of \$500 million per facility, to the MTA.[[**assembly.state+1**]{.underline}](https://assembly.state.ny.us/leg/?bn=A3008C&term=2023&Summary=Y&Actions=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y&Memo=Y&Text=Y)​
+
+-   Additionally, a percentage (approximately 50%) of ongoing gaming tax revenue from these casinos will be directed to the MTA, with the remainder going to other state purposes such as education funding.[[**cbcny+1**]{.underline}](https://cbcny.org/research/what-look-mtas-november-2023-financial-plan)​
+
+-   All revenue collected from the license fees are deposited monthly, without further appropriation, directly into the MTA’s commercial gaming revenue fund.[[**legislation.nysenate+1**]{.underline}](https://legislation.nysenate.gov/pdf/bills/2023/s4008c)​
+
+-   Renewal license fees are calculated based on assessment costs, and these revenues also contribute to the MTA fund.[[**assembly.state**]{.underline}](https://assembly.state.ny.us/leg/?bn=A3008C&term=2023&Summary=Y&Actions=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y&Memo=Y&Text=Y)​
+
+## Estimates of License Fee, Tax, and Other Revenue
+
+-   The State anticipated a one-time total of at least \$1.5 billion from the issuance of three downstate casino licenses (minimum \$500 million per license).[[**osc.ny+1**]{.underline}](https://www.osc.ny.gov/files/reports/budget/pdf/enacted-budget-report-2023-24.pdf)​
+
+-   MTA budget documents projected about \$1.8 billion in total from casino license fees and ongoing tax revenue to be delivered between 2026 and 2029 (approx. \$500 million annually for the first two years, \$600 million in the third, and \$200 million in the fourth).[[**prnewswire+3**]{.underline}](https://www.prnewswire.com/news-releases/resorts-world-new-york-city-projects-2-5-billion-to-mta-in-next-four-years-exceeding-budgeted-casino-revenue-of-1-8-billion-302601253.html)​
+
+-   Resorts World New York City’s recent forecast ups the anticipated revenue to \$2.5 billion for the MTA alone over four years, assuming a \$600 million upfront license fee and \$1.9 billion in tax payments, reflecting potentially higher contributions than originally budgeted.[[**morningstar+3**]{.underline}](https://www.morningstar.com/news/pr-newswire/20251031la12512/resorts-world-new-york-city-projects-25-billion-to-mta-in-next-four-years-exceeding-budgeted-casino-revenue-of-18-billion)​
+
+-   The taxes to the state and MTA are contingent on the casino opening timeline, gaming volume, and final licensing details; education is expected to receive a roughly equal share of tax revenue as transit.[[**qns**]{.underline}](https://qns.com/2025/10/resorts-world-mta/)​
+
+See @knuth84 for additional discussion of literate programming.

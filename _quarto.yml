@@ -9,10 +9,14 @@ book:
     - index.qmd
     - intro.qmd
     - legislation.qmd
+    - timetable.qmd
+    - articles.qmd
     - summary.qmd
     - references.qmd
 
 bibliography: references.bib
+nocite: |
+  @*
 
 format:
   html:

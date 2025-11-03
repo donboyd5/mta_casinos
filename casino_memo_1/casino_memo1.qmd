@@ -1,0 +1,24 @@
+---
+title: "MTA Casino Revenue"
+subtitle: "Initial Analysis"
+author: "Don Boyd"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+format:
+  typst:
+    toc: false
+---
+
+```{=typst}
+#set page(margin: 1in)
+#set text(size: 11pt)
+```
+
+## Executive Summary
+
+Short memo rendered via Quarto → Typst in Positron.
+
+## Example R code
+
+```{r}
+summary(c(1, 2, 3))
+```

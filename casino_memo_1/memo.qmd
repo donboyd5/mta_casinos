@@ -1,0 +1,38 @@
+---
+title: ""
+date: ""
+format:
+  typst:
+    toc: false
+    title-block: false
+---
+
+~~~{=typst}
+#set text(size: 11pt)
+
+// Each field is its own paragraph (blank line between them)
+To: Jai Patel, MTA Chief Financial Officer
+
+From: Don Boyd
+
+Subject: MTA Casino Revenue: Initial Analysis
+
+Date: #datetime.today().display("[month repr:long] [day padding:none], [year]")
+~~~
+
+```{=typst}
+#linebreak()
+#linebreak()
+```
+
+---
+
+```{=typst}
+#linebreak()
+```
+
+## Executive Summary
+```{=typst}
+#linebreak()
+```
+Brief summary goes here.

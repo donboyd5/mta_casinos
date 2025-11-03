@@ -1,3 +1,83 @@
 # Casino legislation
 
 [TED bill](https://www.assembly.state.ny.us/leg/?default_fld=&leg_video=&bn=S04008&term=2023&Summary=Y&Actions=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y&Memo=Y&Text=Y&LFIN=Y&Chamber%26nbspVideo%2FTranscript=Y)
+
+Part R seems to be the main part.
+
+Here are some key excerpts
+
+## Perplexity "best" model summary 11/3/2025
+
+Part R of the S4008c (2023) New York State legislation creates new mechanisms for distributing casino tax and license fee revenue to the Metropolitan Transportation Authority (MTA), especially from prospective downstate (zone one and New York City) casino facilities.[S4008c_2023_FullPackage.pdf]{.underline}​
+
+## Outline of Part R
+
+1.  **Commercial Gaming Revenue Fund and Deposits**
+
+    -   Amends section 1352 of the Racing, Pari-Mutuel Wagering and Breeding Law.
+
+    -   All taxes and fees paid by licensed casinos in **zone two \[NYC\]** are deposited into the "commercial gaming revenue fund" under state control.
+
+    -   For casinos in New York City under Title 2-A, revenues are split:
+
+        -   50% of taxes, interest, and penalties go directly (monthly, without appropriation) to the MTA commercial gaming revenue fund.
+
+        -   50% go to the state's commercial gaming revenue fund for education or property tax relief. [S4008c_2023_FullPackage.pdf]{.underline}​
+
+2.  **Distribution for Zone One (outside NYC) Casinos**
+
+    -   40% of relevant taxes go monthly (without appropriation) to the MTA.
+
+    -   40% go to the state fund for education/property tax relief.
+
+    -   5% allocated to host county, 10% to host municipality, 5% among other counties in the region (all for property tax relief or education assistance).[S4008c_2023_FullPackage.pdf]{.underline}​
+
+3.  **Special Case (Video Lottery Facility Conversions)**
+
+    -   If a gaming facility was formerly a video lottery licensee:
+
+        -   80% of deposits first go to meet a yearly “education aid hold harmless amount.”
+
+        -   20% goes to regional/county/local relief.
+
+        -   Once that threshold is met, additional deposits: 80% to MTA, 20% to local/county funds, then additional rules for excess amounts (“excess dollar amounts” split between MTA and education).[S4008c_2023_FullPackage.pdf]{.underline}​
+
+4.  **Similar rules for NYC facilities converting from video lottery:**
+
+    -   80% to hold harmless for education; 20% to MTA.
+
+    -   Once threshold met, excess: 50% MTA / 50% education.
+
+5.  **Licensing Fees**
+
+    -   Licensees must pay a fee (minimum \$500 million for downstate), deposited monthly directly into the MTA fund (zone one) or state fund (zone two).[S4008c_2023_FullPackage.pdf]{.underline}​
+
+    -   Renewal fees based on cost of license evaluation, deposited in the same manner.
+
+6.  **Creation of MTA Commercial Gaming Revenue Fund**
+
+    -   Amends Public Authorities Law; fund is separate from other MTA money.
+
+    -   May be used for MTA operating costs, New York City Transit, and their subsidiaries, including debt service.
+
+    -   These MTA commercial gaming revenues cannot be pledged for securing bonds or other obligations.[S4008c_2023_FullPackage.pdf]{.underline}​
+
+7.  **State Retains Right to Amend**
+
+    -   The legislation clarifies that these arrangements do not limit the state's ability to change statutes or appropriations relating to gaming revenues in the future.
+
+8.  **Hold Harmless for Municipalities**
+
+    -   Ensures host municipalities do not lose funding compared to revenue they received as a video lottery facility.
+
+## Summary of Key Provisions
+
+-   **Purpose**: Provide a major new revenue stream for the MTA from future downstate casino operations and licensing.
+
+-   **Mechanism**: Split, by formula, percentages of tax and license fee collections between MTA and education/property tax relief, with special provisions for facilities that convert from video lottery gaming.
+
+-   **Administration**: Gaming Commission collects and distributes revenues monthly; MTA establishes and manages the new fund.
+
+-   **Minimums and Formulas**: Downstate licenses require a minimum \$500 million fee each; "hold harmless" formulas ensure no reduction in local educational funding from conversions.
+
+Part R is thus the legislative framework enabling future casino-related taxes and fees to directly support New York’s public transit infrastructure while maintaining protections for education and local property tax relief.[S4008c_2023_FullPackage.pdf]{.underline}​

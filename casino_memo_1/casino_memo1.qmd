@@ -2,12 +2,12 @@
 title: "MTA Casino Revenue"
 subtitle: "Initial Analysis"
 author: "Don Boyd"
-date: today
-date-format: "MMMM d, YYYY"
-title-block-style: plain
+date: "2025-11-07"
+date-format: long
 format:
   typst:
     toc: false
+title-block-style: plain
 execute:
   eval: true
   echo: false
@@ -23,13 +23,35 @@ execute:
 ```{=typst}
 #v(1em)
 ```
--   New York State's [Gaming Facility Location Board](https://nycasinos.ny.gov/) seems highly likely to approve 3 new casino licenses by December 1, 2025 and license the winners by December 31, 2025.
+-   New York State's [Gaming Facility Location Board](https://nycasinos.ny.gov/) is likely to approve 3 new casino licenses by December 1, 2025 and license the winners by December 31, 2025.
 
--   All 3 will be in New York City outside Manhattan. Key elements:
+-   All 3 will be in New York City outside Manhattan.
 
-![](images/paste-1.png)
+-   License fee and tax revenue will be agreed upon by the GFLB and each casino. The statute sets out minimum requirements of (1) \$500m one-time license fee per casino, and (2) tax rates of at least 25% for
 
--   License fee and tax revenue will depend upon structures agreed upon by the GFLB and each casino, separately. The statute sets out minimum requirements of (1) \$500m one-time license fee per casino, and (2) tax rates of at least 25% for
+-   In early October MGM Yonkers, a leading contender, dropped out of the bidding. (https://www.cbsnews.com/newyork/news/mgm-yonkers-withdraws-bid-for-downstate-casino-license/) They cited two main reasons for dropping out:
+
+-   "The newly defined competitive landscape – with four proposals clustered in a small geographic area – challenges the returns we initially anticipated from this project."
+
+-   "our proposal to renovate and expand Empire City Casino was predicated on the receipt of a 30-year commercial casino license but based on newly issued guidance from the State of New York we now expect to qualify for only a 15-year license"
+
+-   These pressures will still exist for the other winners.
+
+![](images/paste-5.png)
+
+> The four full-scale casinos currently operating in New York State are spread apart, all of them more than 100 miles from one another. The three under consideration now are, depending on traffic, a short drive from one another. (NYT)
+
+> But if urban casinos elsewhere in the United States are any gauge, the economic windfalls are often overstated and decline over time. As mobile sports betting has surged, casinos across the country have reported decreasing gambling revenues, including year-over-year declines on the Las Vegas Strip and in New Jersey and Pennsylvania. (NYT)
+
+> Spectrum Gaming Group found that a Manhattan casino could generate \$2.1 billion per year in gambling revenue, higher than in other boroughs. Cohen’s group, however, projects \$3.9 billion in annual revenue within three years in Queens.(https://www.thedailyupside.com/industries/media-entertainment/an-nyc-casino-may-become-worlds-biggest-bidders-project/)
+
+>Currently, only video lottery terminal (VLT) wagering is available in this region at places like Resorts World New York City Casino at Aqueduct Racetrack and MGM Empire City at Yonkers Raceway (https://www.amny.com/news/nyc-casino-licenses-bidding-war/)
+
+## Revenue
+
+There is very little useful revenue information in the public domain:
+
+-   I have scoured the state budget documents: executive budgets from 2023-24 forward, annual information statements, and the November 2025 update to the state financial plan. These
 
 ```{=typst}
 #v(1em)

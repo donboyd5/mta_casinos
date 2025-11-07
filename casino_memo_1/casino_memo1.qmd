@@ -6,19 +6,71 @@ date: "`r format(Sys.Date(), '%B %d, %Y')`"
 format:
   typst:
     toc: false
+execute:
+  eval: true
+  echo: false
+  output: false
 ---
 
 ```{=typst}
 #set page(margin: 1in)
 #set text(size: 11pt)
 ```
+## Highlights
 
-## Executive Summary
+```{=typst}
+#v(1em)
+```
+-   New York State's [Gaming Facility Location Board](https://nycasinos.ny.gov/) seems highly likely to approve 3 new casino licenses by December 1, 2025 and license the winners by December 31, 2025.
 
-Short memo rendered via Quarto → Typst in Positron.
+-   All 3 will be in New York City outside Manhattan. See table below.
 
-## Example R code
+-   License fee and tax revenue will depend upon structures agreed upon by the GFLB and each casino, separately. The statute sets out minimum requirements:
+
+-
+
+    ```
+    One-time license fee of at least $500 million per casino
+    ```
+
+-
+
+    ```
+    Ongoing revenue at tax rates of at least 25% for
+    ```
 
 ```{r}
-summary(c(1, 2, 3))
+
+library(tinytable)
+library(tidyverse)
+
+casino_data <- read_delim(
+  file = "
+applicant; location; proposed_license; proposed_rates; key_features
+Resorts World (Genting); Queens; \\$600m; 56\\% slots, 30\\% tables; stuff
+Metropolitan Park; Queens; >=\\$500m; Not published; stuff2
+Bally's Bronx	Bronx; ≥\\$500 million; Not published;Green space, robust community commitments; more stuff
+",
+  delim = ";",
+  trim_ws = TRUE,
+  show_col_types = FALSE
+)
+
+# casino_data
+casino_data
+
 ```
+
+```{=typst}
+#v(1em)
+```
+```{r}
+#| label: show-casinos-table
+#| output: true
+
+tt(casino_data) |>
+  style_tt(align = "lllll")
+
+```
+
+## Background

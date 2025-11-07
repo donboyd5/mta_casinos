@@ -10,6 +10,9 @@ book:
     - intro.qmd
     - legislation.qmd
     - timetable.qmd
+    - revenue.qmd
+    - gaming_facility_location_board.qmd
+    - maps.qmd
     - articles.qmd
     - summary.qmd
     - references.qmd

@@ -1,5 +1,7 @@
 # Casino legislation
 
+Was proposed in the [2023-24 executive budget](https://www.governor.ny.gov/news/governor-hochul-announces-highlights-fy-2024-executive-budget)
+
 [TED bill](https://www.assembly.state.ny.us/leg/?default_fld=&leg_video=&bn=S04008&term=2023&Summary=Y&Actions=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y&Memo=Y&Text=Y&LFIN=Y&Chamber%26nbspVideo%2FTranscript=Y)
 
 Part R seems to be the main part.
@@ -81,3 +83,11 @@ Part R of the S4008c (2023) New York State legislation creates new mechanisms fo
 -   **Minimums and Formulas**: Downstate licenses require a minimum \$500 million fee each; "hold harmless" formulas ensure no reduction in local educational funding from conversions.
 
 Part R is thus the legislative framework enabling future casino-related taxes and fees to directly support New York’s public transit infrastructure while maintaining protections for education and local property tax relief.[S4008c_2023_FullPackage.pdf]{.underline}​
+
+## Legislative statements
+
+<https://nyassembly.gov/Reports/WAM/2023summary_changes/summary_2023.pdf>
+
+![](images/paste-16.png)
+
+![](images/paste-17.png)

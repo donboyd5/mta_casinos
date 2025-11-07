@@ -2,7 +2,9 @@
 title: "MTA Casino Revenue"
 subtitle: "Initial Analysis"
 author: "Don Boyd"
-date: "`r format(Sys.Date(), '%B %d, %Y')`"
+date: today
+date-format: "MMMM d, YYYY"
+title-block-style: plain
 format:
   typst:
     toc: false
@@ -23,54 +25,13 @@ execute:
 ```
 -   New York State's [Gaming Facility Location Board](https://nycasinos.ny.gov/) seems highly likely to approve 3 new casino licenses by December 1, 2025 and license the winners by December 31, 2025.
 
--   All 3 will be in New York City outside Manhattan. See table below.
+-   All 3 will be in New York City outside Manhattan. Key elements:
 
--   License fee and tax revenue will depend upon structures agreed upon by the GFLB and each casino, separately. The statute sets out minimum requirements:
+![](images/paste-1.png)
 
--
-
-    ```
-    One-time license fee of at least $500 million per casino
-    ```
-
--
-
-    ```
-    Ongoing revenue at tax rates of at least 25% for
-    ```
-
-```{r}
-
-library(tinytable)
-library(tidyverse)
-
-casino_data <- read_delim(
-  file = "
-applicant; location; proposed_license; proposed_rates; key_features
-Resorts World (Genting); Queens; \\$600m; 56\\% slots, 30\\% tables; stuff
-Metropolitan Park; Queens; >=\\$500m; Not published; stuff2
-Bally's Bronx	Bronx; ≥\\$500 million; Not published;Green space, robust community commitments; more stuff
-",
-  delim = ";",
-  trim_ws = TRUE,
-  show_col_types = FALSE
-)
-
-# casino_data
-casino_data
-
-```
+-   License fee and tax revenue will depend upon structures agreed upon by the GFLB and each casino, separately. The statute sets out minimum requirements of (1) \$500m one-time license fee per casino, and (2) tax rates of at least 25% for
 
 ```{=typst}
 #v(1em)
 ```
-```{r}
-#| label: show-casinos-table
-#| output: true
-
-tt(casino_data) |>
-  style_tt(align = "lllll")
-
-```
-
 ## Background

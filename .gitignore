@@ -7,4 +7,5 @@ _book/
 **/*.quarto_ipynb
 
 # files to ignore
+~*
 casino_memo_1/*.pdf

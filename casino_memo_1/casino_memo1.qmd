@@ -1,8 +1,8 @@
 ---
-title: "Casinos and Potential MTA Revenue"
+title: "DRAFT: Casinos and Potential MTA Revenue"
 subtitle: "Initial Review for Jaibala Patel, MTA CFO"
 author: "Don Boyd"
-date: today
+date: "DRAFT: November 10, 2025"
 date-format: long
 format:
   typst:
@@ -24,23 +24,41 @@ execute:
 #set page(margin: 1in)
 #set text(size: 11pt)
 ```
+## Critical near-term questions and preparation
 
-This memo lays out what I have learned so far regarding casinos and MTA revenue, discusses the Resorts World article, and describes information we would need to prepare better estimates of potential revenue for MTA. It does not contain any revenue estimates of my own because we do not yet have enough information to make credible estimates.
+This memo lays out what I have learned so far regarding casinos and MTA revenue, discusses the Resorts World article, and describes information MTA would need to prepare better estimates of potential revenue for MTA. It does not contain any revenue estimates of my own because we do not yet have enough information to make credible estimates. I have not yet had time to include or organize properly all of the information I think is useful but I have tried to include the most-important information.
+
+My advice is to (1) fend off press and other requests to produce the impossible at this limited-information stage -- credible updated estimates of casino revenue for the MTA, and (2) focus on critical near-term questions and preparation that will help you in financial planning for casinos and in estimating casino revenue as new information becomes available.
+
+Near-term questions:
+
+-   **Timing of license fee payment by winning casino applicants**: The New York State Gaming Facility Location Board expects to decide upon 3 casinos by December 1. The GFLB expects the New York State Gaming Commission to grant licenses by December 31. I have not been able to nail down beyond a shadow of a doubt when applicants will pay license fees to the state - there does not appear to be a specific date in statute or regulations [nygamreg_chiv_b]. However, the general presumption in the press and in the regulations is that applicants will pay license fees at or shortly after license granting. Upstate casino applicants paid their fees quickly [^casino_memo1-1]. There's a strong chance that all 3 license fees will be paid in 2026. It would make sense to verify with the state when winning applicants are likely to pay fees.
+
+[^casino_memo1-1]: For example, del Lago Resort & Casino in the Finger Lakes was granted a license in December 2015 and paid its \$50 million fee in March 2016. \[https://www.njherald.com/story/news/2016/03/10/del-lago-casino-near-thruway/2830498007\]
+
+-  **Timing of license fee payment by the state to the MTA**: License fees will be deposited to the
+
+<!-- -->
+
+-   Resorts
+
+Near-term preparation:
 
 In my opinion, it is best not to counter press reports with specific estimates but rather to say:
 
--  With 3 viable proposals now before the Gaming and Facility Location Board, one of the casino risks is substantially reduced: we are likely to have 3 casino licenses granted in New York City. That increases the odds that we'll receive the $1.5 billion in license fees we are budgeting, and perhaps as much as $1.6 billion.
+-   With 3 viable proposals now before the Gaming and Facility Location Board, one of the casino risks is substantially reduced: we are likely to have 3 casino licenses granted in New York City. That increases the odds that we'll receive the \$1.5 billion in license fees we are budgeting, and perhaps as much as \$1.6 billion.
 
--  Crucial details about the proposals are not yet public -- for example, the tax rates for 2 of 3 casinos are not yet public, and their economic and revenue impact studies have not yet been released.
+-   Crucial details about the proposals are not yet public -- for example, the tax rates for 2 of 3 casinos are not yet public, and their economic and revenue impact studies have not yet been released.
 
--  In addition
+-   In addition
 
--  Many risks remain:
+-   Many risks remain:
+
+Questions to pursue:
 
 ```{=typst}
 #pagebreak()
 ```
-
 ## Key facts and conclusions
 
 ```{=typst}
@@ -58,7 +76,7 @@ In my opinion, it is best not to counter press reports with specific estimates b
 
     -   Resorts World (Genting Group) proposes a casino expansion at the Aqueduct Raceway racino site in Queens.
 
-![](images/map_of_proposed_casinos.png){width=75%}
+![](images/map_of_proposed_casinos.png){width="75%"}
 
 -   The casinos will have access to a huge lightly-tapped market but face great competition from each other.
 
@@ -70,15 +88,15 @@ In my opinion, it is best not to counter press reports with specific estimates b
 
 -   Much revenue-estimating-relevant information is not (yet) in the public domain:
 
-    - License fees and tax rates must meet statutory minimums but bidders can propose higher amounts and the GFLB and bidders can agree on different amounts in negotiations. Proposed rates are proprietarty information and not publicly released by the GFLB. (Statutory minimums are (1) \$500m one-time license fee per casino, and (2) tax rates of at least 25% for slot machines and 10% for other gambling activities such as table games.)
+    -   License fees and tax rates must meet statutory minimums but bidders can propose higher amounts and the GFLB and bidders can agree on different amounts in negotiations. Proposed rates are proprietarty information and not publicly released by the GFLB. (Statutory minimums are (1) \$500m one-time license fee per casino, and (2) tax rates of at least 25% for slot machines and 10% for other gambling activities such as table games.)
 
-      Key information is often redacted. Here is an example from Bally's executive summary, which did not even disclose proposed tax rates:
+        Key information is often redacted. Here is an example from Bally's executive summary, which did not even disclose proposed tax rates:
 
         ![](images/paste-8.png)
 
-    - Applicants with community approval were required to submit to the GFLB by October 15 their proposed tax rates, independent market study, independent revenue study, description of the competitive environment, and compliance with land use and environmental review processes. [@chafee_whats_2025] Applicants are not required to release these analyses.
+    -   Applicants with community approval were required to submit to the GFLB by October 15 their proposed tax rates, independent market study, independent revenue study, description of the competitive environment, and compliance with land use and environmental review processes. [@chafee_whats_2025] Applicants are not required to release these analyses.
 
-    - However, bidders have released some information publicly, and some information appears to have been leaked into the public domain.
+    -   However, bidders have released some information publicly, and some information appears to have been leaked into the public domain.
 
 -   In early October MGM Yonkers, a then-leading contender, dropped out of the bidding giving two main reasons [@zanger_mgm_2025]:
 
@@ -88,13 +106,15 @@ In my opinion, it is best not to counter press reports with specific estimates b
 
 -   These competitive pressures will exist for the other winners.
 
+## Buildout challenges
+
+The state can't collect revenue, nor MTA receive its share, until casinos are up and running. Resorts World is likely to be first, because it is proposing to expand on its current racino operations at Aqueduct Raceway. It states that if it is granted a license by December 31, it is "positioned to open the first phase of its casino **by June 2026**". \[emphasis added\] It also claims that it will have a 4-year lead on the "greenfield" proposals (Bally's in the Bronx and Mets at Citi Field). [@resortsworldnewyorkcityApplicationDevelopOperate2025].
+
 ## Implications for revenue, and revenue estimating
 
-- It will be a while before you can prepare plausible estimates of revenue.
-
+-   It will be a while before you can prepare plausible estimates of revenue.
 
 ## Details
-
 
 > But if urban casinos elsewhere in the United States are any gauge, the economic windfalls are often overstated and decline over time. As mobile sports betting has surged, casinos across the country have reported decreasing gambling revenues, including year-over-year declines on the Las Vegas Strip and in New Jersey and Pennsylvania. (NYT)
 
@@ -103,8 +123,6 @@ In my opinion, it is best not to counter press reports with specific estimates b
 > Currently, only video lottery terminal (VLT) wagering is available in this region at places like Resorts World New York City Casino at Aqueduct Racetrack and MGM Empire City at Yonkers Raceway (https://www.amny.com/news/nyc-casino-licenses-bidding-war/)
 
 ## Revenue
-
-
 
 ![](images/paste-9.png)
 
@@ -119,7 +137,7 @@ In my opinion, it is best not to counter press reports with specific estimates b
 
 ## Revenue
 
->In New York, gross gaming revenue (GGR) is officially defined as the total amount wagered by players minus the amount paid out to players as winnings—essentially, GGR represents the “hold” or casino “win.” For example, if players bet $100 million and win back $90 million, GGR is $10 million. [@eventbetgaming]
+> In New York, gross gaming revenue (GGR) is officially defined as the total amount wagered by players minus the amount paid out to players as winnings—essentially, GGR represents the “hold” or casino “win.” For example, if players bet \$100 million and win back \$90 million, GGR is \$10 million. [@eventbetgaming]
 
 NYCC 5329.29 defines it as "all wagers received less voided or cancelled wagers and amounts paid out for winning wagers" https://www.law.cornell.edu/regulations/new-york/9-NYCRR-5329.29
 
@@ -127,10 +145,9 @@ NYCC 5329.29 defines it as "all wagers received less voided or cancelled wagers 
 
 An October 31 press release from Resorts World [@rw_nyc_2025_mta] said:
 
->Resorts World New York City's ("RWNYC") new projections forecast it will send $2.5 billion to the Metropolitan Transportation Authority ("MTA") over the coming four years. The estimated $2.5 billion payment will more than cover the expected $1.8 billion MTA budgeted for the three casino license fees and tax payments from 2026 to 2029...With an upfront license fee of $600 million and $1.9 billion in tax payments to the MTA in the next 4 years, RWNYC will generate $2.5 billion in taxes for the MTA.
+> Resorts World New York City's ("RWNYC") new projections forecast it will send \$2.5 billion to the Metropolitan Transportation Authority ("MTA") over the coming four years. The estimated \$2.5 billion payment will more than cover the expected \$1.8 billion MTA budgeted for the three casino license fees and tax payments from 2026 to 2029...With an upfront license fee of \$600 million and \$1.9 billion in tax payments to the MTA in the next 4 years, RWNYC will generate \$2.5 billion in taxes for the MTA.
 
 The article said this is "achievable because RWNYC could begin operations as early as March 2026"
-
 
 In an executive summary submitted in October, Resorts World said, "In 2031, RWNYC will generate \$4.0 billion GGR \[Gross Gaming Revenue\] in the high case of one casino; \$3.3 to \$3.7 billion GGR in the average case of two casinos; and \$2.7 to \$3.1 billion GGR in the low case of three casinos. RWNYC has the highest GGR across all scenarios....RWNYC offers to pay \$600 million for the Casino License Fee (\$100 million more than the minimum) and a tax rate of 56percent for slots and 30 percent for table games, which are the highest rates among states with substantial GGR. These taxrates will result in \$1.7 billion in casino taxes for 2031, the largest in the U.S." (Note: Revenue analysis was prepared by Spectrum Gaming Group.)
 
@@ -160,12 +177,12 @@ Physics "american-physics-society" -->
 <!-- ::: {#refs}
 ::: -->
 ```
+
 ```{r}
 #| label: stop
 #| echo: false
 knitr::knit_exit()
 ```
-
 
 ```{r}
 #| label: table

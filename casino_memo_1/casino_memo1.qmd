@@ -40,7 +40,7 @@ execute:
 
     -   Resorts World (Genting Group) proposes a casino expansion at the Aqueduct Raceway racino site.
 
-![](images/paste-1.png)
+![](images/map_of_proposed_casinos.png)
 
 -   The casinos will have access to a huge lightly-tapped market but face great competition from each other.
 
@@ -112,7 +112,7 @@ gtsave(tab, fs::path(GROOT, "casino_memo_1", "images", "newtable.pdf"))
 
 ::: landscape
 ```{=typst}
-#image("images/casino_proposals.svg")
+#image("images/casino_proposals_table.svg")
 ```
 :::
 

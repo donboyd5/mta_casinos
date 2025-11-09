@@ -1,6 +1,6 @@
 ---
 title: "MTA Casino Revenue"
-subtitle: "Initial Analysis for MTA CFO Jaibala Patel"
+subtitle: "Initial Analysis for Jaibala Patel, MTA CFO"
 author: "Don Boyd"
 date: today
 date-format: long
@@ -14,9 +14,9 @@ execute:
   echo: false
   output: false
 
-bibliography: references.bib
-nocite: |
-  @*
+# bibliography: references.bib
+# nocite: |
+#   @*
 ---
 
 ```{=typst}
@@ -30,35 +30,103 @@ nocite: |
 ```
 -   New York State's [Gaming Facility Location Board](https://nycasinos.ny.gov/) expects to decide on 3 new casino licenses by December 1 and grant the licenses by December 31.
 
--   Only 3 proposals remain before the GFLB. While existing upstate casinos are all more than 100 miles apart (NYT) , all of the proposed downstate casinos would be in New York City outside Manhattan in close proximity to each other:
+-   Only 3 proposals remain before the GFLB; they seem almost certain to be granted licenses.
+
+-   While existing upstate casinos are all more than 100 miles apart (NYT), all 3 proposed downstate casinos would be in New York City outside Manhattan in close proximity to each other:
 
     -   Bally's Corporation proposes a casino in Ferry Point in the Bronx near the base of the Whitestone Bridge,
 
     -   Metropolitan Park (Mets owner Steve Cohen and Hard Rock International) casino would be in and two in Queens one by the Mets stadium
 
-    -   Resorts World (Genting Group) proposes a casino expansion at the Aqueduct Raceway racino site. By contrast e.
+    -   Resorts World (Genting Group) proposes a casino expansion at the Aqueduct Raceway racino site.
 
-![](images/paste-7.png){width="545"}
+![](images/paste-1.png)
 
--   Thus, the casinos will be near a vast market but face great competition from each other.
+-   The casinos will have access to a huge lightly-tapped market but face great competition from each other.
 
--   License fees and tax rates are not yet definitively determined. The initial statutory minimums are (1) \$500m one-time license fee per casino, and (2) tax rates of at least 25% for slot machines and 10% for other gambling activities such as table games.
+-   Much revenue-estimating-relevant information is not (yet) in the public domain.
+
+-   License fees and tax rates must meet statutory minimums but bidders can propose higher amounts and the GFLB and bidders can agree on different amounts in negotiations. The initial statutory minimums are (1) \$500m one-time license fee per casino, and (2) tax rates of at least 25% for slot machines and 10% for other gambling activities such as table games.
 
 -   Applicants with community approval were required to submit to the location board their proposed tax rates, independent market study, independent revenue study, description of the competitive environment, and compliance with land use and environmental review processes (IBO).
 
+-   In early October MGM Yonkers, a then-leading contender, dropped out of the bidding. (https://www.cbsnews.com/newyork/news/mgm-yonkers-withdraws-bid-for-downstate-casino-license/) They cited two main reasons:
+
+    -   "The newly defined competitive landscape – with four proposals clustered in a small geographic area – challenges the returns we initially anticipated from this project."
+
+    -   "our proposal to renovate and expand Empire City Casino was predicated on the receipt of a 30-year commercial casino license but based on newly issued guidance from the State of New York we now expect to qualify for only a 15-year license"
+
+-   These competitive pressures will exist for the other winners.
+
 <!-- -->
 
--   In early October MGM Yonkers, a leading contender, dropped out of the bidding. (https://www.cbsnews.com/newyork/news/mgm-yonkers-withdraws-bid-for-downstate-casino-license/) They cited two main reasons for dropping out:
+-
 
--   "The newly defined competitive landscape – with four proposals clustered in a small geographic area – challenges the returns we initially anticipated from this project."
+```{r}
+#| label: table
+#| output: false
+#| eval: false
 
--   "our proposal to renovate and expand Empire City Casino was predicated on the receipt of a 30-year commercial casino license but based on newly issued guidance from the State of New York we now expect to qualify for only a 15-year license"
+# One table approach:
+#  create pptx
+#  insert blank slide
+#  click table \ Excel spreadsheet for new workbook
+#  for existing, create new sheet, copy to new blank page in ppt AS EMBEDDED OBJECT
+#  click picture, save as picture as svg to the images folder for the memo
+#  use code to insert the image in qmd/typst
 
--   These pressures will still exist for the other winners.
+GROOT <- rprojroot::find_root(rprojroot::has_file(".git/index"))
 
-![](images/paste-11.png)
+library(tidyverse)
+library(readxl)
+library(gt)
 
-> The four full-scale casinos currently operating in New York State are spread apart, all of them more than 100 miles from one another. The three under consideration now are, depending on traffic, a short drive from one another. (NYT)
+tab <- head(cars) |>
+  gt()
+
+cnames <- c(
+  "applicant",
+  "location",
+  "license",
+  "taxrates",
+  "buildout",
+  "revenue"
+)
+tab1 <- read_excel(
+  fs::path(GROOT, "documents", "casinos_boyd.xlsx"),
+  sheet = "proposals",
+  range = "A6:F8",
+  col_names = cnames
+)
+tab <- tab1 |> gt() |> tab_header("new table")
+
+gtsave(
+  tab,
+  fs::path(GROOT, "casino_memo_1", "images", "newtable.png"),
+  zoom = 5
+)
+
+gtsave(tab, fs::path(GROOT, "casino_memo_1", "images", "newtable.pdf"))
+
+```
+
+::: landscape
+```{=typst}
+#image("images/casino_proposals.svg")
+```
+:::
+
+````{=html}
+<!--
+```{=typst}
+#image("images/table.png")
+```
+
+
+![](images/table.png)
+
+![](images/Presentation1.svg) -->
+````
 
 > But if urban casinos elsewhere in the United States are any gauge, the economic windfalls are often overstated and decline over time. As mobile sports betting has surged, casinos across the country have reported decreasing gambling revenues, including year-over-year declines on the Las Vegas Strip and in New Jersey and Pennsylvania. (NYT)
 
@@ -74,14 +142,14 @@ For example, here is an excerpt from Bally's Bronx executive summary:
 
 ![](images/paste-9.png)
 
-There is very little useful revenue information in the public domain:
-
 -   I have scoured the state budget documents: executive budgets from 2023-24 forward, annual information statements, and the November 2025 update to the state financial plan. These
 
 ```{=typst}
 #v(1em)
 ```
-## Background
+## Mayor-elect Mamdani
+
+## Squaring MTA forecasts with Resorts World statements
 
 ## Revenue
 
@@ -89,14 +157,19 @@ There is very little useful revenue information in the public domain:
 
 In an executive summary submitted in October, Resorts World said, "In 2031, RWNYC will generate \$4.0 billion GGR \[Gross Gaming Revenue\] in the high case of one casino; \$3.3 to \$3.7 billion GGR in the average case of two casinos; and \$2.7 to \$3.1 billion GGR in the low case of three casinos. RWNYC has the highest GGR across all scenarios....RWNYC offers to pay \$600 million for the Casino License Fee (\$100 million more than the minimum) and a tax rate of 56percent for slots and 30 percent for table games, which are the highest rates among states with substantial GGR. These taxrates will result in \$1.7 billion in casino taxes for 2031, the largest in the U.S." (Note: Revenue analysis was prepared by Spectrum Gaming Group.)
 
-More from the ES
->Knowing the final four applicants’ location and their proposals, Spectrum Gaming Group (“Spectrum”) has updated their independent market study (“Study”) submitted previously, and their updated results are consistent with the previous submission. In 2031, RWNYC will generate $4.0 billion GGR in the high case of one casino; $3.3 to $3.7 billion GGR in the average case of two casinos; and $2.7 to $3.1 billion GGR in the low case of three casinos. RWNYC has the highest GGR across all scenarios. With another $0.6 billion in non-gaming revenue, the total 2031 RWNYC revenue will range from $3.3 to $4.6 billion.
+More from the ES \>Knowing the final four applicants’ location and their proposals, Spectrum Gaming Group (“Spectrum”) has updated their independent market study (“Study”) submitted previously, and their updated results are consistent with the previous submission. In 2031, RWNYC will generate \$4.0 billion GGR in the high case of one casino; \$3.3 to \$3.7 billion GGR in the average case of two casinos; and \$2.7 to \$3.1 billion GGR in the low case of three casinos. RWNYC has the highest GGR across all scenarios. With another \$0.6 billion in non-gaming revenue, the total 2031 RWNYC revenue will range from \$3.3 to \$4.6 billion.
 
->In alignment with these GGR projections, RWNYC has designed its IR with a total built-up area of 5.6 million square feet (“SF”) on its 73-acre site within the historic 210-acre Aqueduct Racetrack. The IR built-up area (excluding parking) is 3.4 million SF, which is **74 percent larger than the next proposal**, resulting in the most spacious IR of international standards. The **casino itself is nearly 500,000 SF, 73 percent larger than the next proposal** with 6,000 slot machines and 800 table games—a scale necessary to serve the largest untapped gaming market in the U.S., where no table games exist within a two- to threehour drive. Players will prefer RWNYC because it has 46 SF per gaming position—14 percent more spacious than the next.[emphasis added]
+> In alignment with these GGR projections, RWNYC has designed its IR with a total built-up area of 5.6 million square feet (“SF”) on its 73-acre site within the historic 210-acre Aqueduct Racetrack. The IR built-up area (excluding parking) is 3.4 million SF, which is **74 percent larger than the next proposal**, resulting in the most spacious IR of international standards. The **casino itself is nearly 500,000 SF, 73 percent larger than the next proposal** with 6,000 slot machines and 800 table games—a scale necessary to serve the largest untapped gaming market in the U.S., where no table games exist within a two- to threehour drive. Players will prefer RWNYC because it has 46 SF per gaming position—14 percent more spacious than the next.\[emphasis added\]
 
->RWNYC offers to pay $600 million for the Casino License Fee ($100 million more than the minimum) and a tax rate of 56 percent for slots and 30 percent for table games, which are the highest rates among states with substantial GGR. These tax rates will result in **$1.7 billion in casino taxes for 2031**, the largest in the U.S. With prior investments in additional gaming space, RWNYC is positioned to open the first phase of its casino by June 2026, just six months after the issuance of the License. Supported by the Hyatt Hotel, RWNYC can cater to VIP players who prefer to stay overnight. This represents a lead of at least four years ahead of any greenfield development. During these four years, RWNYC is projected to generate approximately $11.5 billion GGR and $5.0 billion in tax revenue to the State. For every additional year that the greenfield proposals are delayed beyond 2031, RWNYC will continue to generate $4.0 billion of GGR and $1.7 billion in taxes a year.
+> RWNYC offers to pay \$600 million for the Casino License Fee (\$100 million more than the minimum) and a tax rate of 56 percent for slots and 30 percent for table games, which are the highest rates among states with substantial GGR. These tax rates will result in **\$1.7 billion in casino taxes for 2031**, the largest in the U.S. With prior investments in additional gaming space, RWNYC is positioned to open the first phase of its casino by June 2026, just six months after the issuance of the License. Supported by the Hyatt Hotel, RWNYC can cater to VIP players who prefer to stay overnight. This represents a lead of at least four years ahead of any greenfield development. During these four years, RWNYC is projected to generate approximately \$11.5 billion GGR and \$5.0 billion in tax revenue to the State. For every additional year that the greenfield proposals are delayed beyond 2031, RWNYC will continue to generate \$4.0 billion of GGR and \$1.7 billion in taxes a year.
 
-# References {.unnumbered}
 
-::: {#refs}
-:::
+```{=typst}
+// harvard-cite-them-right, ieee, apa
+#pagebreak()
+#set page(columns: 1)
+#bibliography("references.bib", title: "References", style: "harvard-cite-them-right", full: true)
+```
+
+<!-- ::: {#refs}
+::: -->

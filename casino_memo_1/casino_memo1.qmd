@@ -1,8 +1,8 @@
 ---
 title: "DRAFT: Casinos and Potential MTA Revenue"
-subtitle: "Initial Review for Jaibala Patel, MTA CFO"
+subtitle: "Preliminary Analysis for Jaibala Patel, MTA CFO"
 author: "Don Boyd"
-date: "DRAFT: November 10, 2025"
+date: today
 date-format: long
 format:
   typst:
@@ -32,13 +32,18 @@ My advice is to (1) fend off press and other requests to produce the impossible 
 
 Near-term questions:
 
--   **Timing of license fee payment by winning casino applicants**: The New York State Gaming Facility Location Board expects to decide upon 3 casinos by December 1. The GFLB expects the New York State Gaming Commission to grant licenses by December 31. I have not been able to nail down beyond a shadow of a doubt when applicants will pay license fees to the state - there does not appear to be a specific date in statute or regulations [nygamreg_chiv_b]. However, the general presumption in the press and in the regulations is that applicants will pay license fees at or shortly after license granting. Upstate casino applicants paid their fees quickly [^casino_memo1-1]. There's a strong chance that all 3 license fees will be paid in 2026. It would make sense to verify with the state when winning applicants are likely to pay fees.
+-   **Timing of license fee payment by winning casino applicants**: The New York State Gaming Facility Location Board expects to decide upon 3 casinos by December 1. The GFLB expects the New York State Gaming Commission to grant licenses by December 31. I have not been able to nail down beyond a shadow of a doubt when applicants will pay license fees to the state - there does not appear to be a specific date in statute or regulations \[nygamreg_chiv_b\]. However, the general presumption in the press and in the regulations is that applicants will pay license fees at or shortly after license granting. Upstate casino applicants paid their fees quickly [^casino_memo1-1]. There's a strong chance that all 3 license fees will be paid in 2026. It would make sense to verify with the state when winning applicants are likely to pay fees.
 
 [^casino_memo1-1]: For example, del Lago Resort & Casino in the Finger Lakes was granted a license in December 2015 and paid its \$50 million fee in March 2016. \[https://www.njherald.com/story/news/2016/03/10/del-lago-casino-near-thruway/2830498007\]
 
--  **Timing of license fee payment by the state to the MTA**: License fees will be deposited to the
-
 <!-- -->
+
+-   **Timing of license fee payment by the state to the MTA**: License fees will be deposited to the
+
+-   **Amount of licensee fee payment by the state to the MTA**: I read the law as saying that if the fee is \$600 million, the MTA gets the full \$600 million, but it is important to verify. Racing, Pari-Mutuel Wagering and Breeding Law 1321-e(3) says:
+
+>The board shall determine a licensing fee to be paid by a licensee within thirty days after the selection of the license, provided however that no licensing fee shall be less than five hundred million dollars. The license shall set forth the conditions to be satisfied by the licensee before the gaming facility shall be opened to the public. All revenues collected from license fees from gaming facilities located within zone one shall be deposited to a sole custody fund established under the gaming commission, and paid monthly, without appropriation, directly to the metropolitan transportation authority commercial gaming revenue fund established under section one thousand two hundred seventy-j of the public authorities law. **All revenues collected from license fees from gaming facilities located within zone two shall be deposited to the commercial gaming revenue fund established under section ninety-seven-nnnn of the state finance law.** The commission shall set any renewal fee for such license based on the cost of fees associated with the evaluation of a licensee under this article which shall be deposited into the commercial gaming fund. Such renewal fee shall be exclusive of any subsequent licensing fees under this section.[emphasis added]
+
 
 -   Resorts
 

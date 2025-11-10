@@ -26,11 +26,12 @@ execute:
 #show link: set text(fill: blue)
 #show link: underline
 ```
-
+```{=html}
 <!--
 Alternatively, define link format in 1 step:
 #show link: it => underline(text(fill: blue)[#it])
 -->
+```
 
 ## Introduction
 
@@ -46,11 +47,13 @@ Near-term questions:
 
 [^casino_memo1-1]: For example, del Lago Resort & Casino in the Finger Lakes was granted a license in December 2015 and paid its \$50 million fee in March 2016. \[https://www.njherald.com/story/news/2016/03/10/del-lago-casino-near-thruway/2830498007\]
 
+<!-- -->
+
 -   **Timing of license fee payment by the state to the MTA**: License fees will be deposited to the
 
 -   **Amount of licensee fee payment by the state to the MTA**: I read the law as saying that if the fee is \$600 million, the MTA gets the full \$600 million, but it is important to verify. Racing, Pari-Mutuel Wagering and Breeding Law 1321-e(3) says:
 
->The board shall determine a licensing fee to be paid by a licensee within thirty days after the selection of the license, provided however that no licensing fee shall be less than five hundred million dollars. The license shall set forth the conditions to be satisfied by the licensee before the gaming facility shall be opened to the public. All revenues collected from license fees from gaming facilities located within zone one shall be deposited to a sole custody fund established under the gaming commission, and paid monthly, without appropriation, directly to the metropolitan transportation authority commercial gaming revenue fund established under section one thousand two hundred seventy-j of the public authorities law. **All revenues collected from license fees from gaming facilities located within zone two shall be deposited to the commercial gaming revenue fund established under section ninety-seven-nnnn of the state finance law.** The commission shall set any renewal fee for such license based on the cost of fees associated with the evaluation of a licensee under this article which shall be deposited into the commercial gaming fund. Such renewal fee shall be exclusive of any subsequent licensing fees under this section.[emphasis added]
+> The board shall determine a licensing fee to be paid by a licensee within thirty days after the selection of the license, provided however that no licensing fee shall be less than five hundred million dollars. The license shall set forth the conditions to be satisfied by the licensee before the gaming facility shall be opened to the public. All revenues collected from license fees from gaming facilities located within zone one shall be deposited to a sole custody fund established under the gaming commission, and paid monthly, without appropriation, directly to the metropolitan transportation authority commercial gaming revenue fund established under section one thousand two hundred seventy-j of the public authorities law. **All revenues collected from license fees from gaming facilities located within zone two shall be deposited to the commercial gaming revenue fund established under section ninety-seven-nnnn of the state finance law.** The commission shall set any renewal fee for such license based on the cost of fees associated with the evaluation of a licensee under this article which shall be deposited into the commercial gaming fund. Such renewal fee shall be exclusive of any subsequent licensing fees under this section.\[emphasis added\]
 
 -   Resorts
 
@@ -126,79 +129,86 @@ The state can't collect revenue, nor MTA receive its share, until casinos are up
 
 -   It will be a while before you can prepare plausible estimates of revenue.
 
-## Details
-
-> But if urban casinos elsewhere in the United States are any gauge, the economic windfalls are often overstated and decline over time. As mobile sports betting has surged, casinos across the country have reported decreasing gambling revenues, including year-over-year declines on the Las Vegas Strip and in New Jersey and Pennsylvania. (NYT)
-
-> Spectrum Gaming Group found that a Manhattan casino could generate \$2.1 billion per year in gambling revenue, higher than in other boroughs. Cohen’s group, however, projects \$3.9 billion in annual revenue within three years in Queens.(https://www.thedailyupside.com/industries/media-entertainment/an-nyc-casino-may-become-worlds-biggest-bidders-project/)
-
-> Currently, only video lottery terminal (VLT) wagering is available in this region at places like Resorts World New York City Casino at Aqueduct Racetrack and MGM Empire City at Yonkers Raceway (https://www.amny.com/news/nyc-casino-licenses-bidding-war/)
-
 ## Required studies
 
-
-
 ### Market Study: (see Bally's guidance in app materials)
-An Applicant must submit a full independent market study that explains the model or methodology used to derive the projections, identify the sources and robustness of input data, report the results of projections and include a comparison of those results to actual observed visitation and revenue performance against the most comparable gaming facilities in other jurisdictions for which data are available. The revenue information shall be based on:
-Low — Three commercial casino licenses awarded. • Average — Two commercial casino licenses awarded. • High — The Applicant is the only commercial casino licensee awarded a license.
-Please include the name and background information of the independent expert.
+
+An Applicant must submit a full independent market study that explains the model or methodology used to derive the projections, identify the sources and robustness of input data, report the results of projections and include a comparison of those results to actual observed visitation and revenue performance against the most comparable gaming facilities in other jurisdictions for which data are available. The revenue information shall be based on: Low — Three commercial casino licenses awarded. • Average — Two commercial casino licenses awarded. • High — The Applicant is the only commercial casino licensee awarded a license. Please include the name and background information of the independent expert.
+
+-   Bally's - redacted
+
+-   Metropolitan Park -
+
+-   Resorts World NYC - redacted
 
 ### Revenue Study (guidance from Bally's blank)
 
-An Applicant must submit:A study completed by an independent expert providing projections for all estimated State, county and local tax revenue (e.g., gaming, sales, income, real estate, hotel, entertainment and other taxes) for the first 10 years for the highest GGR revenue-producing scenario identified in the Tab 1A (Low) – GGR and Tax Rate in State and Local Revenue Supplement worksheet.
-This shall be only for one scenario.The study shall include a description of the background conditions in the comparable year (i.e., assuming economic conditions and demographics continue to develop as to trend without the Applicant’s proposed Gaming Facility) and build scenario with express 5 enumeration of assumptions.Please include the name and background information of the independent expert.
+An Applicant must submit:A study completed by an independent expert providing projections for all estimated State, county and local tax revenue (e.g., gaming, sales, income, real estate, hotel, entertainment and other taxes) for the first 10 years for the highest GGR revenue-producing scenario identified in the Tab 1A (Low) – GGR and Tax Rate in State and Local Revenue Supplement worksheet. This shall be only for one scenario.The study shall include a description of the background conditions in the comparable year (i.e., assuming economic conditions and demographics continue to develop as to trend without the Applicant’s proposed Gaming Facility) and build scenario with express 5 enumeration of assumptions.Please include the name and background information of the independent expert.
 
-Bally's Bronx - Supplement - Revenue Study -- [Bally's Bronx Updated Revenue Estimates with 30 black pages](https://nycasinos.ny.gov/system/files/documents/2025/10/ballys.revenuestudy.supplement.klasrobinsonreport_redacted.pdf)
+-   Bally's Bronx - redacted ([Bally's Bronx Updated Revenue Estimates with 30 black pages](https://nycasinos.ny.gov/system/files/documents/2025/10/ballys.revenuestudy.supplement.klasrobinsonreport_redacted.pdf))
 
-Get -- Bally’s.RevenueStudy.Supplement.KlasRobinsonReport.pdf
+-   Metropolitan Park -
+
+-   Resorts World NYC - redacted
 
 ### Competitive 10 Years Study
 
 Guidance from a Bally's document:
 
-A description of the competitive environment in which the Applicant anticipates the proposed Gaming Facility will operate over the 10 years after opening. ... How the Applicant plans to succeed in that environment while limiting the impact on revenues at other New York gaming establishments (e.g., commercial casinos, video lottery gaming facilities, tribal casinos, racetracks) or other New York businesses....A description of how it intends to expand the relevant market by bringing in new visitors, as opposed to
-merely shifting visitors from existing gaming venues in the region...Strategic Partnerships with Local Attractions and Businesses...Coordination with Tourism Promotion Organizations
+A description of the competitive environment in which the Applicant anticipates the proposed Gaming Facility will operate over the 10 years after opening. ... How the Applicant plans to succeed in that environment while limiting the impact on revenues at other New York gaming establishments (e.g., commercial casinos, video lottery gaming facilities, tribal casinos, racetracks) or other New York businesses....A description of how it intends to expand the relevant market by bringing in new visitors, as opposed to merely shifting visitors from existing gaming venues in the region...Strategic Partnerships with Local Attractions and Businesses...Coordination with Tourism Promotion Organizations
 
-### State and Local Revenue Supplement
+### State and Local Revenue Study
 
-Guidance from Bally's statement
-State and Local Revenue Worksheet Matrix
-Updated Summary Narrative of Total Gaming Revenue -- total gaming revenue under each scenario, gaming impact on existing facilities
+Guidance from Bally's statement State and Local Revenue Worksheet Matrix Updated Summary Narrative of Total Gaming Revenue -- total gaming revenue under each scenario, gaming impact on existing facilities
 
-Ballys:
-- Victor-Strategies; gravity modeling to predict GGR; considers demographics (propesities, budgets, cultural predispositions) in expanding drive-time rings; projections depend on proximity to existing VLT and proposed other properties and assumed number of other properties. they say most favorable scenario is if Bally's Bronx, Resorts World NYC, and Metropolitan Parks receive licenses -- "most tax-generative scenario for the State"; total GGR projected to exceed $3.5b including free and incentive plan (isn't this a lot less than RWNYC projects?); states that NYS has previously sited casinos near existing VLT -- example is Rivers Casino in Schenectady near Saratoga VLT
-- Low: 3 comm casino licenses in 50-mile radius of BB at least 1 of 2 existing VLT facilities NOT getting casino license; most tax-revenue geneative
-- Average: 2 comm casino licenses in 50-mile radius -- BB and Metro Park get them; RWNYC and MGM Empire City remain as VLT
-- High only BB gets comm license
+-   Bally's - largely redacted, but notes that Victor-Strategies used gravity modeling to predict gross gaming revenue (GGR), considering demographics (propensities to gamble, budgets for gambling, and cultural predispositions) as well as proximity to existing VLT and proposed other properties and assumed number of licenses granted. It says they say that the "most tax-generative scenario for the State" is if Bally's Bronx, Resorts World NYC, and Metropolitan Parks receive licenses leading to total GGR projected to exceed \$3.5 billion. **This is only slightly more than half of what RWNYC projects for the same scenario so there must be some big differences in modeling.**
 
+-   Metropolitan Park -
 
+-   Resorts World NYC - redacted
 
 ```{=typst}
 #v(1em)
 ```
 ## Mayor-elect Mamdani
 
-## Squaring MTA forecasts with Resorts World statements
-
 ## Revenue by facility
 
 ![](images/paste-9.png)
-
-I have scoured the state budget documents: executive budgets from 2023-24 forward, annual information statements, and the November 2025 update to the state financial plan. These
 
 > In New York, gross gaming revenue (GGR) is officially defined as the total amount wagered by players minus the amount paid out to players as winnings—essentially, GGR represents the “hold” or casino “win.” For example, if players bet \$100 million and win back \$90 million, GGR is \$10 million. [@eventbetgaming]
 
 NYCC 5329.29 defines it as "all wagers received less voided or cancelled wagers and amounts paid out for winning wagers" https://www.law.cornell.edu/regulations/new-york/9-NYCRR-5329.29
 
-### Bally's Bronx
+###
+
+## Appendices
+
+### Application materials
+
+-   [Bally's Bronx](https://nycasinos.ny.gov/ballys-bronx-application-materials)
+-   [Metropolital Park](https://nycasinos.ny.gov/metropolitan-park-application-materials)
+-   [Resorts World New York City](https://nycasinos.ny.gov/resorts-world-new-york-city-application-materials)
+
+### Firms
+
+-   [Spectrum Gaming]() -- Resorts World used them
+-   [Victor Strategies](https://www.victor-strategies.com/) -- Bally's used them
+-   [KlasRobinson Q.E.D.](https://www.klasrobinsonqed.com/) specializing in economic impact studies, feasibility analyses and market research -- used by Bally's for Revenue study [sample report](https://casino.hardrock.com/kenosha/-/media/project/shrss/hri/casinos/hard-rock/kenosha/project-updates/menominee-indian-tribe-of-wisconsin-planned-gaming-development.pdf?rev=c8450579fef940e5a1f237242b923f5e)
+
+### Projects
+
+#### Bally's Bronx
 
 @BallysBronxExecutive
 
->The vision for Bally’s Bronx is a spectacular $4 billion integrated resort spanning roughly 16 acres of parking lots and practice green area of Bally’s Golf Links at Ferry Point. This development represents an audacious vision to develop a former landfill and transform it into an economic engine for the Bronx—the borough’s single largest private development. It’s an ideal location: Already a public space surrounded by a 222-acre golf course and a cemetery, bracketed by two major bridges that each carry more than 40 million cars annually, while accessible in less than 20 minutes by Public Ferry from Manhattan’s Upper East Side.
+> The vision for Bally’s Bronx is a spectacular \$4 billion integrated resort spanning roughly 16 acres of parking lots and practice green area of Bally’s Golf Links at Ferry Point. This development represents an audacious vision to develop a former landfill and transform it into an economic engine for the Bronx—the borough’s single largest private development. It’s an ideal location: Already a public space surrounded by a 222-acre golf course and a cemetery, bracketed by two major bridges that each carry more than 40 million cars annually, while accessible in less than 20 minutes by Public Ferry from Manhattan’s Upper East Side.
 
-> The facility is projected to generate over $1 billion in Gross Gaming Revenues, $1.5 billion in total revenues, and more than $200 million in direct gaming taxes annually.
+> The facility is projected to generate over \$1 billion in Gross Gaming Revenues, \$1.5 billion in total revenues, and more than \$200 million in direct gaming taxes annually.
 
-### Resorts World
+#### Metropolitan Park
+
+#### Resorts World
 
 An October 31 press release from Resorts World [@rw_nyc_2025_mta] said:
 
@@ -210,24 +220,19 @@ In an executive summary submitted in October, Resorts World said, "In 2031, RWNY
 
 More from the ES \>Knowing the final four applicants’ location and their proposals, Spectrum Gaming Group (“Spectrum”) has updated their independent market study (“Study”) submitted previously, and their updated results are consistent with the previous submission. In 2031, RWNYC will generate \$4.0 billion GGR in the high case of one casino; \$3.3 to \$3.7 billion GGR in the average case of two casinos; and \$2.7 to \$3.1 billion GGR in the low case of three casinos. RWNYC has the highest GGR across all scenarios. With another \$0.6 billion in non-gaming revenue, the total 2031 RWNYC revenue will range from \$3.3 to \$4.6 billion.
 
-> In alignment with these GGR projections, RWNYC has designed its IR with a total built-up area of 5.6 million square feet (“SF”) on its 73-acre site within the historic 210-acre Aqueduct Racetrack. The IR built-up area (excluding parking) is 3.4 million SF, which is **74 percent larger than the next proposal**, resulting in the most spacious IR of international standards. The **casino itself is nearly 500,000 SF, 73 percent larger than the next proposal** with 6,000 slot machines and 800 table games—a scale necessary to serve the largest untapped gaming market in the U.S., where no table games exist within a two- to threehour drive. Players will prefer RWNYC because it has 46 SF per gaming position—14 percent more spacious than the next.\[emphasis added\]
+> In alignment with these GGR projections, RWNYC has designed its IR[^casino_memo1-2] with a total built-up area of 5.6 million square feet (“SF”) on its 73-acre site within the historic 210-acre Aqueduct Racetrack. The IR built-up area (excluding parking) is 3.4 million SF, which is **74 percent larger than the next proposal**, resulting in the most spacious IR of international standards. The **casino itself is nearly 500,000 SF, 73 percent larger than the next proposal** with 6,000 slot machines and 800 table games—a scale necessary to serve the largest untapped gaming market in the U.S., where no table games exist within a two- to threehour drive. Players will prefer RWNYC because it has 46 SF per gaming position—14 percent more spacious than the next.\[emphasis added\]
+
+[^casino_memo1-2]: Integrated Resort
 
 > RWNYC offers to pay \$600 million for the Casino License Fee (\$100 million more than the minimum) and a tax rate of 56 percent for slots and 30 percent for table games, which are the highest rates among states with substantial GGR. These tax rates will result in **\$1.7 billion in casino taxes for 2031**, the largest in the U.S. With prior investments in additional gaming space, RWNYC is positioned to open the first phase of its casino by June 2026, just six months after the issuance of the License. Supported by the Hyatt Hotel, RWNYC can cater to VIP players who prefer to stay overnight. This represents a lead of at least four years ahead of any greenfield development. During these four years, RWNYC is projected to generate approximately \$11.5 billion GGR and \$5.0 billion in tax revenue to the State. For every additional year that the greenfield proposals are delayed beyond 2031, RWNYC will continue to generate \$4.0 billion of GGR and \$1.7 billion in taxes a year.
 
-## Resources
+### Miscellaneous notes
 
-### Application materials
+> But if urban casinos elsewhere in the United States are any gauge, the economic windfalls are often overstated and decline over time. As mobile sports betting has surged, casinos across the country have reported decreasing gambling revenues, including year-over-year declines on the Las Vegas Strip and in New Jersey and Pennsylvania. (NYT)
 
-- [Bally's Bronx](https://nycasinos.ny.gov/ballys-bronx-application-materials)
-- [Metropolital Park](https://nycasinos.ny.gov/metropolitan-park-application-materials)
-- [Resorts World New York City](https://nycasinos.ny.gov/resorts-world-new-york-city-application-materials)
+> Spectrum Gaming Group found that a Manhattan casino could generate \$2.1 billion per year in gambling revenue, higher than in other boroughs. Cohen’s group, however, projects \$3.9 billion in annual revenue within three years in Queens.(https://www.thedailyupside.com/industries/media-entertainment/an-nyc-casino-may-become-worlds-biggest-bidders-project/)
 
-### Firms
-
--  [Spectrum Gaming]()  -- Resorts World used them
--  [Victor Strategies](https://www.victor-strategies.com/) -- Bally's used them
--  [KlasRobinson Q.E.D.](https://www.klasrobinsonqed.com/) specializing in economic impact studies, feasibility analyses and market research -- used by Bally's for Revenue study [sample report](https://casino.hardrock.com/kenosha/-/media/project/shrss/hri/casinos/hard-rock/kenosha/project-updates/menominee-indian-tribe-of-wisconsin-planned-gaming-development.pdf?rev=c8450579fef940e5a1f237242b923f5e)
-
+> Currently, only video lottery terminal (VLT) wagering is available in this region at places like Resorts World New York City Casino at Aqueduct Racetrack and MGM Empire City at Yonkers Raceway (https://www.amny.com/news/nyc-casino-licenses-bidding-war/)
 
 ```{=typst}
 #pagebreak()
@@ -242,7 +247,6 @@ Social sciences "chicago-author-date"
 Humanities  "mla", "chicago-notes", "harvard-cite-them-right"
 Economics   "harvard-cite-them-right"
 Physics "american-physics-society" -->
-
 ```
 
 ```{r}
@@ -251,14 +255,10 @@ Physics "american-physics-society" -->
 knitr::knit_exit()
 ```
 
-
-
 ```{=html}
 <!-- ::: {#refs}
 ::: -->
 ```
-
-
 
 ```{r}
 #| label: table

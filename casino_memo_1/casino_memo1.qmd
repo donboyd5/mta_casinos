@@ -38,48 +38,44 @@ Alternatively, define link format in 1 step:
 
 ## Key conclusions
 
-## Introduction
-
-This memo lays out what I have learned so far regarding casinos and MTA revenue, discusses the Resorts World article, and describes information MTA would need to prepare better estimates of potential revenue for MTA. It does not contain any revenue estimates of my own because we do not yet have enough information to make credible estimates. I have not yet had time to include or organize properly all of the information I think is useful but I have tried to include the most-important information.
-
-My advice is to (1) fend off press and other requests to produce the impossible at this limited-information stage -- credible updated estimates of casino revenue for the MTA, and (2) focus on critical near-term questions and preparation that will help you in financial planning for casinos and in estimating casino revenue as new information becomes available.
+-   3 new casinos seem likely to be selected by December 1 and licensed by December 31: Bally's Bronx, Metropolitan Park, and Resorts World New York City (a casino expansion of the Aqueduct racino). **It is possible that fewer than 3 casinos will be approved, but 3 seems likely to me.**
+-   Once approved, this will dramatically reduce one of the first major casino risks the MTA faces -- whether and when casinos will be approved and licenses paid.
+-   RWNYC expects to pay a \$600 million license fee (above the \$500m minimum), and a slots tax rate of 56% and other gaming (e.g., tables) tax rate of 30%, above the respective minimums of 25% and 10%.
+-   The casinos will be in close proximity and subject to intense competitive pressure. In fact, one casino (MGM Yonkers) pulled out in October partly because the competition would not allow it to meet its estimates.
+-   The RWNYC press release stating it will pay more for the MTA in the next 4 years than MTA is assuming in its budget for all of casino gaming appears, subject to verification, to have made a mistake, counting all direct gaming taxes on RWNYC as going to the MTA rather than being split between MTA and education. I reverse-engineered RWNYC numbers as best I could, which supports my conclusion [See details within](#sec-rwpr). This approach can be extended to other casinos (I have prepared a template) and we can substitute our own assumptions to test different scenarios. As we gain more information this could be useful.
+-   While RWNYC alone cannot support MTA revenue estimates over the next 4 years, this doesn't mean the industry as a whole cannot. In fact, you're off to an excellent head start with the anticipated \$600 million fee from Resorts World NYC. (I do recommend verifying that the state will pay the full fee to MTA.)
+-   Virtually no documents with useful analytic information are in the public domain: (1) most studies prepared for the casinos either have not been released, or have been virtually entirely redacted, (2) neither the executive nor legislative branches have released analytic materials relating to casino gaming tax revenue.
+-   Rather than try to prepare new estimates now I think it would be better to (1) verify certain legal and procedural questions discussed below, and (2) work to obtain studies and data that would allow you to make better estimates than could be made now.
 
 ## Critical near-term questions and preparation
 
 Near-term questions:
 
--   **Timing of license fee payment by winning casino applicants**: The New York State Gaming Facility Location Board expects to decide upon 3 casinos by December 1. The GFLB expects the New York State Gaming Commission to grant licenses by December 31. I have not been able to nail down beyond a shadow of a doubt when applicants will pay license fees to the state - there does not appear to be a specific date in statute or regulations \[nygamreg_chiv_b\]. However, the general presumption in the press and in the regulations is that applicants will pay license fees at or shortly after license granting. Upstate casino applicants paid their fees quickly [^casino_memo1-1]. There's a strong chance that all 3 license fees will be paid in 2026. It would make sense to verify with the state when winning applicants are likely to pay fees.
+-   **Will 3 casinos be approved?** I think so, but they don't have to be. Most articles presume all 3 will be approved. I only found one article that suggested otherwise [@3NYCCasino]. You'll know by December 31. I don't think there's a way to be 100% certain before.
+-   **Timing of license fee payment by winning casino applicants**: The New York State Gaming Facility Location Board expects to decide upon 3 casinos by December 1. The GFLB expects the New York State Gaming Commission to grant licenses by December 31. I have not been able to nail down beyond a shadow of a doubt when applicants will pay license fees to the state - there does not appear to be a specific date in statute or regulations [@nygamreg_chiv_b]. However, the general presumption in the press and in the regulations is that applicants will pay license fees at or shortly after license granting. Upstate casino applicants paid their fees quickly [^casino_memo1-1]. There's a strong chance that all 3 license fees will be paid in 2026. It would make sense to verify with the state when winning applicants are likely to pay fees.
 
 [^casino_memo1-1]: For example, del Lago Resort & Casino in the Finger Lakes was granted a license in December 2015 and paid its \$50 million fee in March 2016. \[https://www.njherald.com/story/news/2016/03/10/del-lago-casino-near-thruway/2830498007\]
 
 <!-- -->
 
--   **Timing of license fee payment by the state to the MTA**: License fees will be deposited to the
+-   **Timing of license fee payment by the state to the MTA**: To come. I am still reviewing these sections of law.
 
 -   **Amount of licensee fee payment by the state to the MTA**: I read the law as saying that if the fee is \$600 million, the MTA gets the full \$600 million, but it is important to verify. Racing, Pari-Mutuel Wagering and Breeding Law 1321-e(3) says:
 
-> The board shall determine a licensing fee to be paid by a licensee within thirty days after the selection of the license, provided however that no licensing fee shall be less than five hundred million dollars. The license shall set forth the conditions to be satisfied by the licensee before the gaming facility shall be opened to the public. All revenues collected from license fees from gaming facilities located within zone one shall be deposited to a sole custody fund established under the gaming commission, and paid monthly, without appropriation, directly to the metropolitan transportation authority commercial gaming revenue fund established under section one thousand two hundred seventy-j of the public authorities law. **All revenues collected from license fees from gaming facilities located within zone two shall be deposited to the commercial gaming revenue fund established under section ninety-seven-nnnn of the state finance law.** The commission shall set any renewal fee for such license based on the cost of fees associated with the evaluation of a licensee under this article which shall be deposited into the commercial gaming fund. Such renewal fee shall be exclusive of any subsequent licensing fees under this section.\[emphasis added\]
-
--   Resorts
+> The board shall determine a licensing fee to be paid by a licensee within thirty days after the selection of the license, provided however that no licensing fee shall be less than five hundred million dollars. The license shall set forth the conditions to be satisfied by the licensee before the gaming facility shall be opened to the public. All revenues collected from license fees from gaming facilities located within zone one shall be deposited to a sole custody fund established under the gaming commission, and paid monthly, without appropriation, directly to the metropolitan transportation authority commercial gaming revenue fund established under section one thousand two hundred seventy-j of the public authorities law. **All revenues collected from license fees from gaming facilities located within zone two shall be deposited to the commercial gaming revenue fund established under section ninety-seven-nnnn of the state finance law.** The commission shall set any renewal fee for such license based on the cost of fees associated with the evaluation of a licensee under this article which shall be deposited into the commercial gaming fund. Such renewal fee shall be exclusive of any subsequent licensing fees under this section. \[emphasis added\]
 
 Near-term preparation:
 
-In my opinion, it is best not to counter press reports with specific estimates but rather to say:
+-   **Related studies**: I suggest chasing down all relevant studies in the public domain that help identify data sources and methods most useful for estimating casino revenue. I have gathered some of these.
 
--   With 3 viable proposals now before the Gaming and Facility Location Board, one of the casino risks is substantially reduced: we are likely to have 3 casino licenses granted in New York City. That increases the odds that we'll receive the \$1.5 billion in license fees we are budgeting, and perhaps as much as \$1.6 billion.
+-   **Nonpublic studies**: Try to obtain nonpublic studies prepared for the winning applicants. Perhaps it is possible to strike confidentiality agreements. Alternatively, conversations with their consultants who prepared the studies could be helpful.
 
--   Crucial details about the proposals are not yet public -- for example, the tax rates for 2 of 3 casinos are not yet public, and their economic and revenue impact studies have not yet been released.
-
--   In addition
-
--   Many risks remain:
-
-Questions to pursue:
+-   **Data**: Try to obtain relevant data. Much data for potentially similar facilities should be in the public domain. Most relevant economic and demographic data should be public.
 
 ```{=typst}
 #pagebreak()
 ```
-## Key facts and conclusions
+## Key facts
 
 ```{=typst}
 #v(1em)
@@ -118,7 +114,7 @@ Questions to pursue:
 
     -   However, bidders have released some information publicly, and some information appears to have been leaked into the public domain.
 
--   In early October MGM Yonkers, a then-leading contender, dropped out of the bidding giving two main reasons [@zanger_mgm_2025]:
+-   In early October **MGM Yonkers**, a then-leading contender, dropped out of the bidding giving two main reasons [@zanger_mgm_2025]:
 
     -   "The newly defined competitive landscape – with four proposals clustered in a small geographic area – challenges the returns we initially anticipated from this project."
 
@@ -126,11 +122,7 @@ Questions to pursue:
 
 -   These competitive pressures will exist for the other winners.
 
-## Buildout challenges
-
-The state can't collect revenue, nor MTA receive its share, until casinos are up and running. Resorts World is likely to be first, because it is proposing to expand on its current racino operations at Aqueduct Raceway. It states that if it is granted a license by December 31, it is "positioned to open the first phase of its casino **by June 2026**". \[emphasis added\] It also claims that it will have a 4-year lead on the "greenfield" proposals (Bally's in the Bronx and Mets at Citi Field). [@resortsworldnewyorkcityApplicationDevelopOperate2025].
-
-## Resorts World press release stating that by itself RWNYC pay more than the MTA budgeted amount
+## Resorts World press release stating that by itself RWNYC will pay more than the MTA budgeted amount {#sec-rwpr}
 
 In an October 31 press release Resorts World New York City said it would generate \$2.5 million in revenue to the MTA between 2026 and 2029, which is more than the \$1.8 billion the MTA is assuming from all casino's combined:
 
@@ -160,8 +152,9 @@ Setting aside for a moment whether Resorts World assumptions are reasonable, I h
 
 And of course, we should not take assumptions as given. Past estimates by casino proponents have been wildly optimistic. For example, the NYC IBO said, "A 2020 report from the Office of the New York State Comptroller reported that all four State-licensed upstate casinos fell short of projected gross revenues. A follow up 2023 report found a similar trend, with three of the four upstate casinos reaching only 50 to 60% of their initial gross gaming revenue projections." (@chafee_whats_2025) New York City is certainly a much bigger and stronger market than upstate but it's still appropriate to be skeptical - particularly given that none of the studies underpinning analyses for proposed NYC casinos have been released publicly.
 
-![](images/paste-1.png)
+Note that the approach below can be extended to other casinos (I have prepared a template) and we can substitute our own assumptions to test different scenarios. As we gain more information this could be useful.
 
+![](images/paste-2.png)
 
 ## Appendices - selected resources and topics
 
@@ -179,11 +172,15 @@ And of course, we should not take assumptions as given. Past estimates by casino
 -   GGHM – used by Metropolitan Park
 -   CBRE – used by Metropolitan Park
 
+### Buildout challenges
+
+The state can't collect revenue, nor MTA receive its share, until casinos are up and running. Resorts World is likely to be first, because it is proposing to expand on its current racino operations at Aqueduct Raceway. It states that if it is granted a license by December 31, it is "positioned to open the first phase of its casino **by June 2026**". \[emphasis added\] It also claims that it will have a 4-year lead on the "greenfield" proposals (Bally's in the Bronx and Mets at Citi Field). [@resortsworldnewyorkcityApplicationDevelopOperate2025].
+
 ### Mayor-elect Mamdani
 
 Zohran Mamdani has publicly expressed skepticism about casino expansion in New York City, but said he will not use his mayoral influence to block casino development, recognizing it as a matter of state law and voter-supported policy. He has described gambling as “haram” — forbidden under Islamic law—and reiterated that, while personally opposed, he will respect state decisions and the legal framework governing casinos. [@Fandos_NYTimes2025]
 
-## Gross gaming revenue
+### Gross gaming revenue
 
 > In New York, gross gaming revenue (GGR) is officially defined as the total amount wagered by players minus the amount paid out to players as winnings—essentially, GGR represents the “hold” or casino “win.” For example, if players bet \$100 million and win back \$90 million, GGR is \$10 million. [@eventbetgaming]
 
@@ -230,7 +227,6 @@ Requirement: An Applicant must submit a description of the competitive environme
 -   [Metropolitan Park](https://nycasinos.ny.gov/system/files/documents/2025/10/supp4.hardrock.competitive10years.supplement-redacted.pdf) - includes text but numbers of any importance are redacted
 
 -   Resorts World NYC - redacted
-
 
 ### Projects
 
